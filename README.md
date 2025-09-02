@@ -1,7 +1,7 @@
 # Hard-Soft-Skill-TI
 Repositório para a disciplina de Design Profissional
 
-Acesso para o trabalho de pesquisa: [Acesse Aqui](https://solides.com.br/blog/hard-skills/) |
+Acesso para o trabalho de pesquisa: [Acesse aqui](https://solides.com.br/blog/hard-skills/) |
 
 Colaboradores: Vinicus Miranda: [Acesse aqui](https://github.com/Vini01-dev) |
 
